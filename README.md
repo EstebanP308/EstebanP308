@@ -11,7 +11,7 @@ Welcome, I'm currently in my **Freshman year**, and my goal is to build a solid 
 - **Interests:** 🔐 Cybersecurity | 👨‍💻 Software Engineering.
 
 ## 📂 My Featured Repositories:
-- [ Python Learning Path](https://github.com): My learning log, where I document my first steps and projects in Python.
+- [ python_learning Path](https://github.com): My learning log, where I document my first steps and projects in Python.
 
 ##📫 How to reach me:
 - **Email** Puentesesteban55@gmail.com
