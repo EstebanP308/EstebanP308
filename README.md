@@ -6,7 +6,7 @@ Welcome, I'm currently in my **Freshman year**, and my goal is to build a solid 
 ---
 
 ## 🛠️ Technologies and Tools:
-- **Languages:** Python (Fundamentals and Logic).
+- **Languages:** Python, c++.
 - **Tools:** VS Code |  Git & GitHub.
 - **Interests:** 🔐 Cybersecurity | 👨‍💻 Software Engineering.
 
