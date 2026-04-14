@@ -28,6 +28,7 @@ I don't just code; I train for logic and problem-solving:
 
 ### 📊 GitHub Stats
 ![Esteban's GitHub stats](https://vercel.app)
+
 ![Top Langs](https://vercel.app)
 
 ---
