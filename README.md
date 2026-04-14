@@ -10,6 +10,12 @@ Welcome, I'm currently in my **Freshman year**, and my goal is to build a solid 
 - **Tools:** VS Code |  Git & GitHub.
 - **Interests:** 🔐 Cybersecurity | 👨‍💻 Software Engineering.
 
+
+### 🎯 Current Focus:
+- **Competitive Programming:** Preparing for **USACO (Bronze/Silver)** and **UIL Computer Science**.
+- **Robotics:** Implementing low-level control with **C++ & Arduino**.
+- **Discrete Math:** Self-studying logic and graph theory to improve my algorithmic thinking.
+
 ## 📂 My Featured Repositories:
 - [ python_learning path](https://github.com): My learning log, where I document my first steps and projects in Python.
 
