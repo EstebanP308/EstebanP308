@@ -35,7 +35,7 @@ I don't just code; I train for logic and problem-solving:
 
 ### 📫 More about me
 - **Email:** [Puentesesteban55@gmail.com](mailto:Puentesesteban55@gmail.com)
-- **YouTube:** [Link a tu canal] *(Coming Soon: Robotics Demos)*
+- **YouTube:**(Coming Soon: Robotics Demos)*
 
 
 
