@@ -22,7 +22,7 @@ I don't just code; I train for logic and problem-solving:
 
 ### 📂 Featured Projects
 - [**Arduino-Robotics-core-cpp**](https://github.com): C++ firmware for obstacle avoidance and line-following robots.
-- [**python_learning_path**](https://github.com): A log of my journey through data structures and logic.
+- [**python_learning_path**](https://github.com/EstebanP308/python_learning_path): A log of my journey through data structures and logic.
 
   
 
