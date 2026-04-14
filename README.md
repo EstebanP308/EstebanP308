@@ -21,8 +21,8 @@ I don't just code; I train for logic and problem-solving:
 | **Focus** | Cybersecurity, Software Architecture, Robotics |
 
 ### 📂 Featured Projects
-- [**Arduino-Robotics-core-cpp**](): C++ firmware for obstacle avoidance and line-following robots.
-- [**python_learning_path**](): A log of my journey through data structures and logic.
+- [**Arduino-Robotics-core-cpp**](https://github.com): C++ firmware for obstacle avoidance and line-following robots.
+- [**python_learning_path**](https://github.com): A log of my journey through data structures and logic.
 
   
 
