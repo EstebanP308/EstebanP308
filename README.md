@@ -1,27 +1,41 @@
-# Hi! I'm Esteban
-### High School Student | Aspiring Computer Scientist
+# Hi! I'm Esteban 👋 
+**High School Freshman | Future Computer Scientist**
 
-Welcome, I'm currently in my **Freshman year**, and my goal is to build a solid foundation in Computer Science. I am currently exploring programming logic and cybersecurity.
+I am a self-driven student building a strong foundation in software engineering and robotics. Currently, I am bridge-building between high-level logic in **Python** and low-level hardware control with **C++**. I also like learning and making projects with JAVA.
 
 ---
 
-## 🛠️ Technologies and Tools:
-- **Languages:** Python, c++.
-- **Tools:** VS Code |  Git & GitHub.
-- **Interests:** 🔐 Cybersecurity | 👨‍💻 Software Engineering.
+### 🎯 Roadmap & Competitive Goals
+I don't just code; I train for logic and problem-solving:
+- 🏆 **USACO & UIL:** Actively preparing for Bronze/Silver tiers.
+- 📐 **Discrete Math:** Self-studying Graph Theory and Logic to optimize my algorithms.
+- 🤖 **Embedded Systems:** Developing autonomous robotics projects with Arduino.
 
+### 🛠️ Tech Stack & Tools
 
-### 🎯 Current Focus:
-- **Competitive Programming:** Preparing for **USACO (Bronze/Silver)** and **UIL Computer Science**.
-- **Robotics:** Implementing low-level control with **C++ & Arduino**.
-- **Discrete Math:** Self-studying logic and graph theory to improve my algorithmic thinking.
+| Field | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, Java |
+| **Hardware** | Arduino UNO R3, Ultrasonic & IR Sensors |
+| **Tools** | VS Code, Git, GitHub, PlatformIO |
+| **Focus** | Cybersecurity, Software Architecture, Robotics |
 
-## 📂 My Featured Repositories:
-- [ python_learning path](https://github.com): My learning log, where I document my first steps and projects in Python.
+### 📂 Featured Projects
+- [**Autonomous Robotics Core**](): C++ firmware for obstacle avoidance and line-following robots.
+- [**Python Learning Path**](): A log of my journey through data structures and logic.
 
-##📫 How to reach me:
-- **Email** Puentesesteban55@gmail.com
   
+
+### 📊 GitHub Stats
+![Esteban's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 More about me
+- **Email:** [Puentesesteban55@gmail.com](mailto:Puentesesteban55@gmail.com)
+- **YouTube:** [Link a tu canal] *(Coming Soon: Robotics Demos)*
+
 
 
 
