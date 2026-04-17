@@ -24,12 +24,6 @@ I don't just code; I train for logic and problem-solving:
 - [**Arduino-Robotics-core-cpp**](https://github.com/EstebanP308/Arduino-Robotics-core-cpp): C++ firmware for obstacle avoidance and line-following robots.
 - [**python_learning_path**](https://github.com/EstebanP308/python_learning_path): A log of my journey through data structures and logic.
 
-  
-
-### 📊 GitHub Stats
-![Esteban's GitHub stats](https://vercel.app)
-
-![Top Langs](https://vercel.app)
 
 ---
 
